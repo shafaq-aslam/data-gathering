@@ -85,9 +85,8 @@ Mastering data gathering is essential in data science — it’s the **foundatio
 
 ## 📚 Learning Resources
 
-- 🔹 *CampusX — Data Gathering Series*  
+- 🔹 *CampusX — Data Gathering*  
 - 🔹 Pandas Official Docs: https://pandas.pydata.org/pandas-docs/stable/index.html  
-- 🔹 REST API Guide: https://realpython.com/api-integration-in-python/
 
 ---
 
@@ -97,7 +96,6 @@ Mastering data gathering is essential in data science — it’s the **foundatio
 - **Pandas**
 - **Requests (for APIs)**
 - **Jupyter Notebook**
-- **SQLite / MySQL (for SQL experiments)**
 
 ---
 
