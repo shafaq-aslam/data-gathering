@@ -36,4 +36,82 @@ Mastering data gathering is essential in data science — it’s the **foundatio
 
 ## 📂 Folder Structure
 
+<pre>
+  data-gathering-lab/
+│
+├── Import Data from different sources/
+│ ├── working_with_csv
+│ ├── working_with_xlsx_and_txt
+│ └── working_with_json_and_sql
+│
+├── Export Data in a different Format/
+│ ├── Export_as_csv
+│ ├── Export_as_html
+│ └── Export_as_json_and_sql
+│
+└── Data gathering through API/
+  └── Data_gathering_through_api
+</pre>
 
+
+---
+
+## 🧮 Topics Covered
+
+### 🔹 **Importing Data from Multiple Sources**
+| Topic | Description |
+|-------|-------------|
+| **working_with_csv** | Reading CSV files using multiple methods & parameters. |
+| **working_with_xlsx_and_txt** | Working with Excel sheets and text-based data. |
+| **working_with_json_and_sql** | Loading JSON files & fetching data from SQL databases. |
+
+---
+
+### 🔹 **Exporting Data in Various Formats**
+| Topic | Description |
+|-------|-------------|
+| **Export_as_csv** | Saving DataFrames into CSV format with custom settings. |
+| **Export_as_html** | Exporting tables into HTML pages. |
+| **Export_as_json_and_sql** | Exporting to JSON files & writing data to SQL tables. |
+
+---
+
+### 🔹 **Data Gathering Through APIs**
+| Topic | Description |
+|-------|-------------|
+| **Data_gathering_through_api** | Making API requests, parsing JSON data, authentication (if required). |
+
+---
+
+## 📚 Learning Resources
+
+- 🔹 *CampusX — Data Gathering Series*  
+- 🔹 Pandas Official Docs: https://pandas.pydata.org/pandas-docs/stable/index.html  
+- 🔹 REST API Guide: https://realpython.com/api-integration-in-python/
+
+---
+
+## 🧰 Tools & Environment
+
+- **Python 3.x**
+- **Pandas**
+- **Requests (for APIs)**
+- **Jupyter Notebook**
+- **SQLite / MySQL (for SQL experiments)**
+
+---
+
+## ✨ Author
+
+**Shafaq Aslam**  
+📍 Passionate about Data Science, Analytics, and Python — building a strong foundation through hands-on learning.
+
+---
+
+## 🔖 Tags for SEO
+
+`data-gathering` `python` `pandas` `api` `rest-api` `json` `csv` `sql` `data-collection` `data-import` `data-export` `data-engineering` `jupyter-notebook` `learning-lab`
+
+---
+
+<p align="center"><i>“Data is the new oil — gather it well, and everything else becomes easier.”</i></p>
